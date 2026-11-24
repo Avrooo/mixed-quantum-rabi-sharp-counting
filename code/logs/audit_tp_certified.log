@@ -1,0 +1,7 @@
+det/Q(t) = RF with numerator deg 6, denominator deg 11
+det vanishes at roots of Q (Q | numerator of det): True
+gcd(den of det/Q, Q) degree: 0 (0 means no pole at roots of Q)
+t_p bracket width: 3.944e-31   [-0.168601501871666, -0.168601501871666]
+a1 in [0.931625,0.931625]  b1 in [4.496257,4.496257]  R in [-4.254589,-4.254589]
+CERTIFIED: a1>0, b1>0, R<0 on the whole bracket: True
+e0 - (a0/a1) e1 in [1.210186,1.210186]  (nonzero on bracket: True)

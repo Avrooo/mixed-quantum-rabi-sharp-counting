@@ -1,0 +1,4 @@
+S1 four-term recurrence from L A'+M A=0 holds exactly for the top-weight series (270 checks, 5 t, n in 1,2,3,5,8): True
+S2 exact identities in Q(sqrt D): lambda_+ + lambda_- = 1, Q(y0)=4 w2/q, root relations, closed form of lambda_+, b^2-ac = r^2 m/(2q): True
+S3 exact: for 23 rational t in (0,1/2) and n=1..12 (276 cases): leading forms nonzero of exact degrees (d1,d0), binary resultant != 0, points [1:0],[0:1] not common roots: True
+S4 exact: Res != 0 at 5 generic negative rational t (n<=8): True

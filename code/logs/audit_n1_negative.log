@@ -1,0 +1,26 @@
+A symbolic == printed : True
+B symbolic == printed : True
+C symbolic == printed : True
+D symbolic == printed : True
+AD-BC numerator (low->high): ['0', '-3/512', '3/128', '-3/32', '21/32', '-33/16', '21/8', '-3/2', '3/2', '-3/2']
+denominator: ['1/1024', '3/512', '1/64', '3/32', '7/64', '9/16', '7/16', '3/2', '1', '3/2', '1']
+W = (AD-BC)/[t(1-2t)^4/(q^3 Q^2)] is polynomial? True  deg 8
+W coeffs low->high: ['-6', '-60', '-312', '-1200', '-1920', '-4800', '-4992', '-3840', '-1536']
+mult of (1-2t) in W: 0
+mult of (1+2t) in W: 0
+mult of t in W: 0
+mult of q in W: 0
+distinct real roots of W in (0,1/2): 0 ; in (-1/2,0): 1
+W(0),W(1/4),W(1/2) = [-6.0, -72.9140625, -648.0]
+distinct real roots of Q in (-1/2,1/2): 1
+sign of W on (0,1/2): W(0)=-6 -> negative iff W<0
+t        sgnQ sgnB sgnD sgnA sgnC  feasible? (exists eps: A-B eps>0, C-D eps>0)
+feasible rational t sample in (-1/2,0): 0 of 2000 ; first few: []
+root of Q: -0.16860150187166562  root of W: -0.16860150187166567
+-0.49 -1 -1 1 -1 1 False
+-0.3 -1 -1 1 -1 1 False
+-0.2 -1 -1 1 -1 1 False
+-0.17 -1 -1 1 -1 1 False
+-0.16666666666666666 1 1 -1 1 -1 False
+-0.1 1 1 -1 1 -1 False
+-0.01 1 1 -1 1 -1 False

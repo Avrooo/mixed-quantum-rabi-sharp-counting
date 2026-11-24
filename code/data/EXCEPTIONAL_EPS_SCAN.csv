@@ -1,0 +1,13 @@
+n,lambda_plus,t,vanishing_coeffs,live_coeffs,common_real_eps,status
+1,1/3,-0.168601501872,1,1,1.539295,COMMON-COMPONENT real eps found
+2,1/4,-0.100390444694,1,2,,no common real eps (no real common component)
+2,1/3,-0.168601501872,1,2,,no common real eps (no real common component)
+3,1/5,-0.071551845203,1,4,,no common real eps (no real common component)
+3,1/4,-0.100390444694,1,4,,no common real eps (no real common component)
+3,1/3,-0.168601501872,1,4,,no common real eps (no real common component)
+3,2/5,-0.255424440560,1,4,,no common real eps (no real common component)
+4,1/6,-0.055605919506,1,6,,no common real eps (no real common component)
+4,1/5,-0.071551845203,1,6,,no common real eps (no real common component)
+4,1/4,-0.100390444694,1,6,,no common real eps (no real common component)
+4,1/3,-0.168601501872,2,5,,no common real eps (no real common component)
+4,2/5,-0.255424440560,1,6,,no common real eps (no real common component)

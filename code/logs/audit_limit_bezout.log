@@ -1,0 +1,25 @@
+n= 1  deg=(1,1) exact:True  Res(top forms)!=0:True  B_n=1 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n= 2  deg=(1,2) exact:True  Res(top forms)!=0:True  B_n=2 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n= 3  deg=(2,2) exact:True  Res(top forms)!=0:True  B_n=4 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n= 4  deg=(2,3) exact:True  Res(top forms)!=0:True  B_n=6 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n= 5  deg=(3,3) exact:True  Res(top forms)!=0:True  B_n=9 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n= 6  deg=(3,4) exact:True  Res(top forms)!=0:True  B_n=12 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n= 7  deg=(4,4) exact:True  Res(top forms)!=0:True  B_n=16 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n= 8  deg=(4,5) exact:True  Res(top forms)!=0:True  B_n=20 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n= 9  deg=(5,5) exact:True  Res(top forms)!=0:True  B_n=25 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=10  deg=(5,6) exact:True  Res(top forms)!=0:True  B_n=30 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=11  deg=(6,6) exact:True  Res(top forms)!=0:True  B_n=36 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=12  deg=(6,7) exact:True  Res(top forms)!=0:True  B_n=42 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=13  deg=(7,7) exact:True  Res(top forms)!=0:True  B_n=49 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=14  deg=(7,8) exact:True  Res(top forms)!=0:True  B_n=56 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=15  deg=(8,8) exact:True  Res(top forms)!=0:True  B_n=64 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=16  deg=(8,9) exact:True  Res(top forms)!=0:True  B_n=72 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=17  deg=(9,9) exact:True  Res(top forms)!=0:True  B_n=81 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=18  deg=(9,10) exact:True  Res(top forms)!=0:True  B_n=90 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=19  deg=(10,10) exact:True  Res(top forms)!=0:True  B_n=100 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=20  deg=(10,11) exact:True  Res(top forms)!=0:True  B_n=110 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=21  deg=(11,11) exact:True  Res(top forms)!=0:True  B_n=121 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=22  deg=(11,12) exact:True  Res(top forms)!=0:True  B_n=132 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=23  deg=(12,12) exact:True  Res(top forms)!=0:True  B_n=144 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+n=24  deg=(12,13) exact:True  Res(top forms)!=0:True  B_n=156 points all zeros:True distinct,w>0:True  Jacobians!=0:True
+ALL PASS

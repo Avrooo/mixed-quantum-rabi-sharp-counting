@@ -1,0 +1,7 @@
+t_p = -0.16860150187166562  g2 = -0.3027756377319947
+det of (u,v) block at t_p: 2.167e-66   (scale 8.098e-01)
+row0/row1 ratio in (u,v) block consistent: 2.3262021118477727e-66
+eps* = 1.5392951192425586
+line: 0.931625 u + 4.496257 v = -4.254589
+both coefficients > 0: True  RHS < 0: True   => no (u,v)>0 solution: True
+margin |R| =4.2546 vs perturbation ~1e-60 (t_p known to 66 digits)

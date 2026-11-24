@@ -1,0 +1,3 @@
+C7 tau=1e-02: max rel dev of A_i/A_0 * tau^i from limit recurrence (i<=n+2, n=3,6): 1.80e-03
+C7 tau=1e-03: max rel dev of A_i/A_0 * tau^i from limit recurrence (i<=n+2, n=3,6): 1.80e-05
+C7 tau=1e-04: max rel dev of A_i/A_0 * tau^i from limit recurrence (i<=n+2, n=3,6): 1.80e-07

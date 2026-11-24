@@ -1,0 +1,3 @@
+max relative deviation recurrence vs Krawtchouk formula (m<=12, all j): 1.50e-71
+max |A_i| for m<i<=m+4 (termination, expect ~0): 9.25e-75
+KRAWTCHOUK IDENTIFICATION VERIFIED

@@ -1,0 +1,18 @@
+'created' timestamp seems very low; regarding as unix timestamp
+'modified' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'modified' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'modified' timestamp seems very low; regarding as unix timestamp
+n=1 eps=0.5 Delta=2.0288407038 g1=0.2514106533 E=2.128057341 | |psi|=1.000000000000000 nbar=0.0595 Pup=0.5976 Pdn=0.4024 tail=5.5e-87
+   dens norm -2.75e-14, max|rho_an-rho_num|=1.6e-15, max|P_an-P_num|=2.2e-16, 1-fid=-2.2e-16, |dE|=8.9e-16
+   Wigner: int=1.000000  Wmin=-0.0064  neg.vol=0.0049  max marginal err=1.5e-09
+   conv: ['K=8:9e-04/5e-04', 'K=12:6e-06/3e-05', 'K=16:6e-09/5e-07', 'K=24:9e-14/3e-11', 'K=32:-2e-16/4e-15', 'K=48:0e+00/9e-16', 'K=64:-2e-16/0e+00', 'K=96:-2e-16/9e-16']
+n=3 eps=0.0 Delta=4.4847396492 g1=0.2166033737 E=4.500682917 | |psi|=1.000000000000000 nbar=0.0040 Pup=0.4992 Pdn=0.5008 tail=4.7e-86
+   dens norm -2.33e-14, max|rho_an-rho_num|=3.3e-16, max|P_an-P_num|=3.3e-16, 1-fid=-2.2e-16, |dE|=1.8e-15
+   Wigner: int=1.000000  Wmin=-0.0001  neg.vol=0.0001  max marginal err=8.3e-10
+   conv: ['K=8:3e-08/4e-07', 'K=12:4e-07/3e-07', 'K=16:9e-08/3e-08', 'K=24:7e-14/1e-11', 'K=32:-2e-16/1e-14', 'K=48:-9e-16/5e-15', 'K=64:-4e-16/7e-15', 'K=96:-4e-16/4e-15']
+n=6 eps=0.0 Delta=4.1408536824 g1=0.1797361541 E=7.293658083 | |psi|=1.000000000000000 nbar=3.0406 Pup=0.4965 Pdn=0.5035 tail=1.7e-79
+   dens norm -5.94e-11, max|rho_an-rho_num|=8.0e-15, max|P_an-P_num|=5.6e-16, 1-fid=3.3e-16, |dE|=8.9e-16
+   Wigner: int=1.000000  Wmin=-0.3159  neg.vol=0.4759  max marginal err=1.1e-07
+   conv: ['K=8:6e-05/2e-03', 'K=12:4e-05/7e-05', 'K=16:1e-04/6e-05', 'K=24:7e-08/3e-07', 'K=32:2e-13/5e-11', 'K=48:2e-16/8e-15', 'K=64:0e+00/6e-15', 'K=96:2e-16/3e-15']

@@ -1,0 +1,5 @@
+gcd(NA,NA') degree: 0 (squarefree)
+exact number of roots of NA in (0,1/2): 1
+root t0 = 0.308000678236  (g2/omega = 0.44655)
+Q(-1/2)= -3  Q(0)=1;  min of Q' on a fine grid of (-1/2,0): 5.765365512
+min V on grid (-1/2,1/2): 0.823779801121 ; lower bound 16t^2+4t+1 has discriminant -48

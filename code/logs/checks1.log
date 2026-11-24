@@ -1,0 +1,6 @@
+C1 ODE identity for coefficients i=0..33: PASS
+C2 stripped A~_{m+1}(2(m+2),w) = const*prod_k((s^2-k^2)w-8k^2), m=1..40: PASS
+C3 A~_i(2s,c) divisible by A~_{m+1} for i=m+2..m+6 (m<=40): PASS | gcd(A~_m,A~_{m+1})=1: PASS
+C5 common zeros of (A~_{n+1},A~_n): none off U in {4,..,2(n+1)}; at U=2s exactly deg s-1 (n<=30): PASS
+C4 all indexed points are common roots and Jacobian != 0 (n<=24, 1378 points): PASS
+C6 total degrees of stripped limit polynomials are d1=floor((n+1)/2), d0=floor(n/2)+1 (n<=30): PASS

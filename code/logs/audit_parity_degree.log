@@ -1,0 +1,13 @@
+n= 1 done  (cumulative 10/10)
+n= 2 done  (cumulative 20/20)
+n= 3 done  (cumulative 30/30)
+n= 4 done  (cumulative 40/40)
+n= 5 done  (cumulative 50/50)
+n= 6 done  (cumulative 60/60)
+n= 7 done  (cumulative 70/70)
+n= 8 done  (cumulative 80/80)
+n= 9 done  (cumulative 90/90)
+n=10 done  (cumulative 100/100)
+n=11 done  (cumulative 110/110)
+n=12 done  (cumulative 120/120)
+RESULT: 120/120 (n,t) pairs pass: parity, exact stripping, exact degrees d1,d0, nonzero top forms, (1:0),(0:1) not common roots, Res!=0 for t>0

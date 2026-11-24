@@ -1,0 +1,14 @@
+(1) (C2) exact residual != 0 : 0 of 1140
+(2) Qt(1)=4w2/q : True
+(2) q+r^2=2 w2 : True
+(2) Omega=rm/q =(1-4t^2)/q : True
+(2) x^2 z0^2/Om = r^3/(q m) (per chi) : True
+(2) 2 beta z0 = 2 r  (beta/h=q/m) : True
+(2) 2 s z0^2 = 2 r^2/q : True
+(2) D=q(q-8t)/r^2 : True
+(2) (1-y+)(1-y-)=2w2/r^2 : True
+(2) lambda+ lambda- = (1-f)/4 : True
+(2) lambda+ lambda- = -4 t w2/(r^2(q-8t)) : True
+(2) kappa-hat=chi r^3/(q m) = -M Qt(1) at chi_M : True
+(2) f'/f = 8/(1-4t^2)+8t/q+8(1-t)/(q-8t) : True
+(3) end-to-end: 87 (k/M, multiple, n) cases; max relative deviation recursion vs product form: 2.64e-72; A_{n+1}=A_{n+2}=0 and A_n!=0 in all

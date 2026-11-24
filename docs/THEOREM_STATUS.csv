@@ -1,0 +1,16 @@
+result,subject,proof_status,computational_evidence,evidence_files,notes
+Theorem 1,Degree structure and exact energy,written proof (author; unrefereed),98/98 raw-operator vs closed-form recursion comparisons; Table V residuals <=3e-15,code/test_exact.py; code/logs/test_exact.log; code/validation_table_run.py,
+Theorem 2,Necessary and sufficient termination,written proof (author; unrefereed),same 98 comparisons,code/test_exact.py,
+Proposition 3,Nonexistence of degree-zero solutions,closed-form residual,R1(n=0) formula checked in test_exact (n=0..6),code/test_exact.py,
+Observation 4,Consistency at g1->0 with Reyes-Bustos-Wakayama,NOT proved for all n (demoted from Proposition in v8),NO archived script or log; earlier count of 112 not reproducible from this repository and was removed from the manuscript,none,author must supply script or keep as observation
+Proposition 5,Constraint polynomial degrees,weight-counting proof (author),exact degrees/parity n<=12 (120/120); degree law n<=14,code/audit_parity_degree.py; code/degree_law.py; code/topw.py (21/21),minimal-monomial exactness is computational only (n<=12) and is not used by Theorem 6
+Theorem 6,Sharp counting bound,Bezout + Theorem 7 (author),exact certification for sampled (n,t) via resultants/Sturm,code/symcheck.py; code/audit_parity_degree.py; code/data/CERTIFIED_ROOT_COUNTS.csv,sector bound only
+Theorem 7,Common projective roots at infinity,written proof (author; unrefereed),four-term recurrence 270 exact checks; 1140 exact residual checks; resultant nonzero 276 cases n<=12,code/symcheck.py; code/audit_appC.py; code/logs/checks1.log,central; needs independent audit
+Theorem 9,Exceptional coupling classification,written proof (author),Sturm counts 1,2,4,5,8,10 exceptional t,code/exceptional.py; code/audit_exact_lambda.py,
+Theorem 10,Exact limiting roots and simplicity,written proof (author),B_n rational zeros distinct with nonzero Jacobian for n<=24 (1378 points),code/audit_limit_bezout.py; code/checks1.py,central; needs independent audit
+Proposition 11,Krawtchouk structure,written proof,deviation 1.5e-71 for l<=12,code/verify_krawtchouk.py,
+Proposition 12,Spin spectral identity,identity of polynomials (not similarity),det identity exact l<=12; stripped polynomial identity l<=24; sector dims,code/verify_prop12.py; code/audit_zero_spin.py; code/checks4.py,even l: sector excluding k=0 (dim l/2)
+Theorem 13,Attainment for arbitrary degree,IFT argument (analyticity of rescaled system shown term by term in v8),18/18 certified configurations (n=2-4),code/checks3.py; code/logs/checks3.log,region (t_n; eps_n(t)) depends on n; not uniform
+Proposition 14,Degree-one existence region,corrected in v8 (sign of AD-BC in case B>0>D),2000 rational points; certified t_p interval enclosure,code/audit_n1_negative.py; code/audit_tp_certified.py; tests/test_prop14_sign.py,
+Observation 15,Resultant factorization,computational,n<=6,code/audit_divisibility.py,
+Corollary 16,Combined-sector bounds,follows from Theorems 6 and sector exchange,sector exchange unitary checked (n=2),code/validation_table_run.py,combined bound is qualified

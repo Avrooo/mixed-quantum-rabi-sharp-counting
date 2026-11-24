@@ -1,0 +1,1 @@
+exact identity check (raw operators vs closed-form recursion): 98/98 pass over t in ['1/10', '3/10', '-1/5', '2/5', '-2/5', '5/2', '-5/2'], n=0..6 (random rational Delta, eps, g1 NOT on the solution set)

@@ -1,0 +1,9 @@
+{
+  "title": "Exact polynomial eigenstates and sharp counting bounds in the biased mixed quantum Rabi model: code, data and logs",
+  "upload_type": "software",
+  "description": "Reproducible symbolic derivations, exact algebraic certification, numerical spectral validation, and figure-generation code for sharp counting bounds in the biased mixed quantum Rabi model. The mathematical results are the author's own and unrefereed; see docs/PROOF_AUDIT_REPORT.md.",
+  "creators": [{"name": "Avro, Sakib Shahrear"}],
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": ["quantum Rabi model", "two-photon", "exact solutions", "Bezout", "reproducibility"]
+}

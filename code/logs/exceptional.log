@@ -1,0 +1,7 @@
+n | #real roots of Res-numerator in (-1/2,0) | in (0,1/2) | predicted #reduced fractions k/M<1/2, M<=n+2 | lambda+ at roots == predicted set?
+1 1 0 1 True
+2 2 0 2 True
+3 4 0 4 True
+4 5 0 5 True
+5 8 0 8 True
+6 10 0 10 True

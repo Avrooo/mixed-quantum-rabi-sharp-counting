@@ -1,0 +1,8 @@
+n | multiplicities of each quartic P_{k/M} in N_n | residual after removing all P and q-powers
+n=1: mult {'1/3': 1}; q^3; residual degree 0
+n=2: mult {'1/4': 1, '1/3': 1}; q^6; residual degree 0
+n=3: mult {'1/5': 1, '1/4': 1, '1/3': 1, '2/5': 1}; q^10; residual degree 0
+n=4: mult {'1/6': 1, '1/5': 1, '1/4': 1, '1/3': 2, '2/5': 1}; q^15; residual degree 0
+n=5: mult {'1/7': 1, '1/6': 1, '1/5': 1, '1/4': 1, '2/7': 1, '1/3': 2, '2/5': 1, '3/7': 1}; q^21; residual degree 0
+n=6: mult {'1/8': 1, '1/7': 1, '1/6': 1, '1/5': 1, '1/4': 2, '2/7': 1, '1/3': 2, '3/8': 1, '2/5': 1, '3/7': 1}; q^28; residual degree 0
+EXACT DIVISIBILITY AUDIT PASSED (N_n = const * prod P_{k/M}^{mult} * q^j, no other factor): True

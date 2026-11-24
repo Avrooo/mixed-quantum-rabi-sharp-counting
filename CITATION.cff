@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the manuscript and the archived software."
+title: "Exact polynomial eigenstates and sharp counting bounds in the biased mixed quantum Rabi model"
+type: software
+authors:
+  - family-names: Avro
+    given-names: Sakib Shahrear
+version: "1.0.0"
+date-released: "2026-11-24"
+identifiers: []
+license: MIT
+repository-code: "https://github.com/<OWNER>/mixed-quantum-rabi-sharp-counting"
+# doi: "10.5281/zenodo.XXXXXXX"   # to be filled in after the Zenodo archive is created
+abstract: "Reproducible symbolic derivations, exact algebraic certification, numerical spectral validation, and figure-generation code for sharp counting bounds in the biased mixed quantum Rabi model."
